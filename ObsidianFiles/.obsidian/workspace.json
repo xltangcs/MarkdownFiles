@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "9da608721f7df107",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe09dd5d873f082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6700ed186dc0335f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/p_2018_C.K.Lin_Programming Spiking Neural Networks on Intel's Loihi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8dd340f50b84b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/Always-On Speech Recoginition Using TrueNorth, a Reconfigurable, Neurosynptic Processor.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "c5f31d1b15b917e1"
+          },
+          {
+            "id": "13dab35d3f9de425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/Science-2014-Service-614-6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21a123c6098e07b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/p_2018_C.K.Lin_Programming Spiking Neural Networks on Intel's Loihi.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "7b6ec3bd320ce379"
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d87601c65c675009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50cc5d776cc26fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/Always-On Speech Recoginition Using TrueNorth, a Reconfigurable, Neurosynptic Processor.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "c5f31d1b15b917e1"
+          },
+          {
+            "id": "98b7fca8514b14ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/p_2018_C.K.Lin_Programming Spiking Neural Networks on Intel's Loihi.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "7b6ec3bd320ce379"
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33fb163ef4932014",
+    "type": "split",
+    "children": [
+      {
+        "id": "39c5185130be352c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158418613cdd3d13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5928d5b3b9bba66f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71a6b9945a78de1a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7aee11af96367f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b9a987b8e4d4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d667bfdb47a2621f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "论文阅读/p_2018_C.K.Lin_Programming Spiking Neural Networks on Intel's Loihi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2a68c70fe600791",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "论文阅读/p_2018_C.K.Lin_Programming Spiking Neural Networks on Intel's Loihi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "555c734b33b28f5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "499c59714699d87a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "论文阅读/p_2018_C.K.Lin_Programming Spiking Neural Networks on Intel's Loihi.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98b7fca8514b14ef",
+  "lastOpenFiles": [
+    "论文阅读/Always-On Speech Recoginition Using TrueNorth, a Reconfigurable, Neurosynptic Processor.md",
+    "论文阅读/p_2018_C.K.Lin_Programming Spiking Neural Networks on Intel's Loihi.md",
+    "论文阅读/Science-2014-Merolla-668-73.md",
+    "论文阅读/Science-2014-Service-614-6.md",
+    "photo/批注 2022-10-24 154809.png.md",
+    "photo/批注 2022-10-24 122025.png.md",
+    "一些学习笔记/Rust.md",
+    "一些学习笔记/STL.md",
+    "一些学习笔记/C++.md",
+    "一些学习笔记/LeetCode刷题记录 .md"
+  ]
+}
