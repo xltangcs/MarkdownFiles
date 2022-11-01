@@ -45,3 +45,32 @@ conda install -y jupyter
 ```
 jupyter notebook
 ```
+#### 修改jupyter默认打开路径
+
+查看jupyter_notebook_config文件所在位置
+```
+jupyter notebook --generate-config
+```
+打开jupyter_notebook_config，修改，去掉#
+```
+c.NotebookApp.notebook_dir = 'D:\JupyterNotebook'
+```
+右键jupyter快捷方式，属性，删除`"%USERPROFILE%/"`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
